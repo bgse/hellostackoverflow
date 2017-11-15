@@ -2,7 +2,7 @@ Example project for demonstration purposes
 ==========================================
 
 A minimal example project to demonstrate creating and uploading a pip-installable Python package, and by no means
-a substitute for `reading the documentation <https://packaging.python.org/tutorials/distributing-packages>`, even
+a substitute for `reading the documentation <https://packaging.python.org/tutorials/distributing-packages>`_, even
 if you are in a rush and your cat is on fire.
 
 ----
